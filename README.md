@@ -3,7 +3,7 @@
 - 🔭 Eu trabalho atualmente como desenvolvedor front-end na [@Claro Brasil](https://www.linkedin.com/company/clarobrasil/mycompany/verification/).
 - 🌱 Atualmente me matriculei na Rocket Seat, em busca de evolução 🚀.
 - 👯 Estou procurando colaborar em projetos com os amigos, para ganhar cada vez mais experiência.
-- 💬 HTML e CSS
+- 💬 Posso ajudar com HTML, CSS e JAVASCRIPT.
 - 📫 Posso ser contactado atráves do LinkedIn: /jeferson-couto-27b5381a0 e também por e-mail: coutojefersonn@gmail.com.
 - 😄 Pronomes: Ele/Dele.
 
