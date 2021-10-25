@@ -11,5 +11,5 @@
 
 [![Meu perfil Rocket Seat](https://img.shields.io/badge/coutojeferson-Rocket%20Seat-blue)](https://app.rocketseat.com.br/dashboard)
 [![Meu perfil Rocket Seat](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jeferson-couto-27b5381a0/)
-[![Meu número de seguidores](https://img.shields.io/github/followers/coutojeferson?style=flat&labelColor=0D0D0D&logo=Github&Color=white)
+[![Meu número de seguidores](https://img.shields.io/github/followers/coutojeferson?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/coutojeferson/coutojeferson)
 
