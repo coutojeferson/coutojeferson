@@ -1,6 +1,6 @@
 ### Meu nome é Jeferson 👋
 
-- 🔭 Eu trabalho atualmente como desenvolvedor front-end na [@Claro Brasil](https://www.linkedin.com/company/clarobrasil/mycompany/verification/).
+- 🔭 Eu trabalho atualmente como desenvolvedor front-end na [@Global Hitss](https://www.linkedin.com/company/global-hitss/mycompany/).
 - 🌱 Atualmente me matriculei na Rocket Seat, em busca de evolução 🚀.
 - 👯 Estou procurando colaborar em projetos com os amigos, para ganhar cada vez mais experiência.
 - 💬 Posso ajudar com HTML, CSS e JAVASCRIPT.
