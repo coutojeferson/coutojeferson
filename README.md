@@ -1,6 +1,6 @@
 ### Meu nome é Jeferson 👋
 
-- 🔭 Eu trabalho atualmente como desenvolvedor front-end na [@Biz](https://www.linkedin.com/company/biz-techfin/mycompany/).
+- 🔭 Eu trabalho atualmente como desenvolvedor mobile na [@Biz](https://www.linkedin.com/company/biz-techfin/mycompany/).
 - 🌱 Matriculado na Rocket Seat e Origamid, em busca de evolução 🚀.
 - 👯 Estou procurando colaborar em projetos com os amigos, para ganhar cada vez mais experiência.
 - 📫 Posso ser contactado atráves do [LinkedIn](https://www.linkedin.com/in/jeferson-couto-27b5381a0/) e também por e-mail: coutojefersonn@gmail.com.
