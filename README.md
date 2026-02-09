@@ -1,8 +1,7 @@
 ### Meu nome é Jeferson 👋
 
-- 🔭 Eu trabalho atualmente como desenvolvedor mobile na [@Biz](https://www.linkedin.com/company/biz-techfin/mycompany/).
-- 🌱 Matriculado na Rocket Seat e Origamid, em busca de evolução 🚀.
-- 👯 Estou procurando colaborar em projetos com os amigos, para ganhar cada vez mais experiência.
+- 🔭 Tenho quase 5 anos de experiência com desenvolvimento mobile utilizando react native e typescript, e estou estudando React com o curso do André Rafael na origamid!
+- 👯 Estou procurando colaborar em projetos, para ganhar cada vez mais experiência.
 - 📫 Posso ser contactado atráves do [LinkedIn](https://www.linkedin.com/in/jeferson-couto-27b5381a0/) e também por e-mail: coutojefersonn@gmail.com.
 
 [![Meu perfil Rocket Seat](https://img.shields.io/badge/coutojeferson-Rocket%20Seat-blue)](https://app.rocketseat.com.br/dashboard)
