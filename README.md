@@ -1,6 +1,6 @@
 ### Meu nome é Jeferson 👋
 
-- 🔭 Tenho quase 5 anos de experiência com desenvolvimento mobile utilizando react native e typescript, e estou estudando React com o curso do André Rafael na origamid!
+- 🔭 Tenho mais de 4 anos de experiência com desenvolvimento mobile utilizando react native e typescript, e estou estudando React com o curso do André Rafael na origamid!
 - 👯 Estou procurando colaborar em projetos, para ganhar cada vez mais experiência.
 - 📫 Posso ser contactado atráves do [LinkedIn](https://www.linkedin.com/in/jeferson-couto-27b5381a0/) e também por e-mail: coutojefersonn@gmail.com.
 
